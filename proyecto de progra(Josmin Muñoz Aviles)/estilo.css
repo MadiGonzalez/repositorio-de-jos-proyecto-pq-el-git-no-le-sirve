@@ -1,0 +1,31 @@
+.titulo {
+    font-size: 30px;
+    text-align: center;
+    color: #005011;
+}
+
+body {
+    background: rgb(96, 189, 100);
+}
+
+#navegacion {
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.932);
+    color: #1d491f;
+    text-decoration: none;
+}
+#titulo {
+    text-shadow: 2px 2px 4px #0b5302;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 10 px
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
